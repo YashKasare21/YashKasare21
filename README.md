@@ -1,58 +1,144 @@
-## Hi there 👋
+<div align="center">
 
-I'm Yash Kasare — an AI & Data Science undergrad passionate about building secure, intelligent systems using open-source tech. I work across domains like Generative AI, LLMs, Cybersecurity, and Full-Stack Development.
+```
+██╗   ██╗ █████╗ ███████╗██╗  ██╗    ██╗  ██╗ █████╗ ███████╗ █████╗ ██████╗ ███████╗
+╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ██║ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝
+ ╚████╔╝ ███████║███████╗███████║    █████╔╝ ███████║███████╗███████║██████╔╝█████╗  
+  ╚██╔╝  ██╔══██║╚════██║██╔══██║    ██╔═██╗ ██╔══██║╚════██║██╔══██║██╔══██╗██╔══╝  
+   ██║   ██║  ██║███████║██║  ██║    ██║  ██╗██║  ██║███████║██║  ██║██║  ██║███████╗
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
 
-- 🔭 I’m currently working on:  
-  - 🧠 RAG Chatbot using local LLMs, FAISS, and Streamlit  
-  - 🛡️ `trapTrace` – a self-aware cybersecurity Python module  
-  - 📦 AI-powered Dropshipping Automation (as a solopreneur)
+### ML Engineer · GPU Systems · Agentic AI · Mumbai, India
 
-- 🌱 I’m currently learning:  
-  - Advanced Deep Learning & PyTorch  
-  - Full-stack AI deployment & performance optimization  
-  - GATE DSAI preparation (2026)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-kasare-ai)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashnkasare16@gmail.com)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/docstream/)
+![Profile Views](https://komarev.com/ghpvc/?username=YashKasare21&style=flat-square&color=6366f1)
 
-- 👯 I’m looking to collaborate on:  
-  - AI/ML Open-Source Projects  
-  - Cybersecurity Research Tools  
-  - GenAI/LLM use-case products
-
-- 🤔 I’m looking for help with:  
-  - Scaling AI apps efficiently  
-  - Optimizing performance for local models  
-  - Building a strong portfolio for Google Summer of Code / FAANG internships
-
-- 💬 Ask me about:  
-  - AI Agents, RAG, LLMs, Semantic Search  
-  - Cybersecurity tool development  
-  - MERN Stack and Backend APIs
-
-- 📫 How to reach me:  
-  - Email: yashnkasare16@gmail.com  
-  - LinkedIn: [linkedin.com/in/yashkasare](https://linkedin.com/in/yashkasare)  
-  - Portfolio: *coming soon...*
-
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’m a footballer, boxer, and I build as hard as I train!
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-kasare-05756a252) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YashKasare21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YashKasare21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKasare21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YashKasare21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YashKasare21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YashKasare21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I build systems at the intersection of **GPU performance engineering** and **production LLM infrastructure** — from writing CUDA kernels in bare-metal C++ to shipping multi-agent pipelines that handle real workloads.
+
+Currently a final-year B.E. student in AI & Data Science (CGPA 8.6/10) at VCET Mumbai, graduating 2026. Two internships in GenAI and DL. Open to **ML Engineering**, **GenAI Engineering**, and **MLOps** internship roles at AI-first companies.
+
+```
+What I care about:   Systems that are fast + correct + observable
+What I avoid:        Toy demos and tutorial-rehash projects
+Current obsession:   FlashAttention kernel optimization on T4/V100/A100
+```
+
+---
+
+## Projects
+
+### ⚡ FlashAttention CUDA Kernel
+> *CUDA C++, WMMA Tensor Cores, Nsight Compute, PyTorch*
+
+Custom FlashAttention forward pass from scratch — no cuDNN, no shortcuts.
+
+- SRAM tiling + online softmax → memory complexity **O(N²) → O(N)**
+- Eliminated 32-way shared memory bank conflicts via SMEM padding + `__ldg` cache loads
+- WMMA fp16 Tensor Core ops → **2.42× speedup** validated on Tesla T4
+- Full Nsight Compute profiling: compute SOL 8.5%, memory SOL 36% — memory-bound, improvements identified
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/YashKasare21/flashattention_cuda_kernel)
+
+---
+
+### 🤖 Auto-SWE-Agent
+> *LangGraph, Claude API, LiteLLM, Docker Sandbox, ReAct Loop*
+
+Autonomous software engineering agent that resolves real GitHub issues without human intervention.
+
+- LangGraph ReAct loop + Claude API for planning and code generation
+- Docker sandbox for safe bash execution and test isolation
+- LiteLLM fallback chain: `Claude → Gemini 2.0 Flash → Groq Llama 3.3 70B` for resilience
+- Eval harness benchmarks patches against unit-test assertions with autocorrection loops
+- Validated on live DocStream Issue #13 (password-protected PDF bug)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/YashKasare21/auto-swe-agent)
+
+---
+
+### 📄 DocStream
+> *FastAPI, Next.js 14, PyMuPDF, Gemini 2.5 Flash, Groq, XeLaTeX, Docker, PyPI*
+
+Open-source PDF ↔ LaTeX conversion engine. Published on PyPI. Running in production.
+
+- 3-step pipeline: **PyMuPDF extraction → LLM skeleton fill → XeLaTeX compile** with automated figure insertion
+- Multi-provider fallback chain: `Gemini 2.5 Flash → Groq Llama 3.3 → Kimi K2.5 (NVIDIA NIM) → Ollama`
+- SSE streaming, plugin-style pipeline, Google OAuth, usage metering
+- **99.9% uptime** across all providers via automatic failover
+
+[![Repo](https://img.shields.io/badge/Monorepo-181717?style=flat-square&logo=github)](https://github.com/YashKasare21/docstream-new)
+[![PyPI](https://img.shields.io/badge/PyPI_Package-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/docstream/)
+
+---
+
+### 📈 AI Trading Bot
+> *SAC, PPO, A2C, Stable-Baselines3, Optuna, LangChain, APScheduler, Telegram*
+
+Personal NSE/Nifty50 EOD signal system with a hard viability gate before real capital.
+
+- 80+ TA indicators + FFT + HMM + Gemini sentiment feeding a shared FeaturePipeline
+- Ensemble RL inference: **A2C + PPO + RSI rule-based, 2-of-3 vote required**
+- Walk-forward validation with expanding windows + Optuna hyperparameter tuning
+- Paper trading requirement: 30 days, >52% win rate on HIGH confidence signals before live deployment
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/YashKasare21/trading_bot)
+
+---
+
+## Tech Stack
+
+```python
+stack = {
+    "GPU / Systems":   ["CUDA C/C++", "WMMA Tensor Cores", "Nsight Compute", "SRAM Tiling"],
+    "LLM / Agents":    ["LangGraph", "LangChain", "LlamaIndex", "Claude API", "LiteLLM", "RAG", "Ollama"],
+    "ML / DL":         ["PyTorch", "HuggingFace Transformers", "Stable-Baselines3", "Optuna", "Scikit-learn"],
+    "Backend":         ["FastAPI", "SQLAlchemy", "Docker", "GitHub Actions", "AWS Bedrock"],
+    "Frontend":        ["Next.js 14", "React", "Vercel"],
+    "Data":            ["PySpark", "FAISS", "ChromaDB", "MongoDB", "yfinance"],
+}
+```
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YashKasare21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKasare21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## Experience
+
+| Period | Role | Company | Key Work |
+|--------|------|---------|----------|
+| Jun–Aug 2025 | Data Science & DL Intern | Rogue Code | PyTorch/sklearn pipelines, Optuna tuning, CNN+Transformer training, +12% accuracy gain |
+| Jun–Aug 2024 | GenAI Intern | VCET IIC | BERT+FAISS semantic search (2.7× recall), LangChain RAG pipeline, -40% hallucination rate |
+
+---
+
+## Education
+
+**B.E. in Artificial Intelligence and Data Science** — VCET Mumbai · 2023–2026 · CGPA **8.6/10**
+
+---
+
+<div align="center">
+
+*Open to ML Engineering / GenAI Engineering / MLOps internships at AI-first companies.*
+
+**`yashnkasare16@gmail.com` · Mumbai, India**
+
+</div>
